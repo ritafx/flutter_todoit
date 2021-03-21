@@ -25,7 +25,6 @@ class MyApp extends StatelessWidget {
               caption: TextStyle(fontSize: 18.0, color: Colors.grey[400], fontWeight:FontWeight.w400), //style for textfield hint text
               button: TextStyle(fontSize: 18.0, color: Colors.indigo[300], fontWeight:FontWeight.w600) //style for text button
             )
-            //fontFamily: 'Roboto'
             ),
         home: Scaffold(body: Login()));
   }
