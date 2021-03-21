@@ -20,5 +20,4 @@ Todos - https://jsonplaceholder.typicode.com/todos
   - Logout
 
 ![Login page](/screenshots/Screenshot_1.png)
-
 ![Dashboard](/screenshots/Screenshot_2.png)
